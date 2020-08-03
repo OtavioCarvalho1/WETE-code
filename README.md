@@ -1,1 +1,1 @@
-# WETE-code
+Código usado para obter os resultados do trabalho "Aplicação de SVM para a previsão de ocorrência de cintilação ionosférica". A base de dados pode ser obtida em: http://ismrquerytool.fct.unesp.br/is/index.php .
